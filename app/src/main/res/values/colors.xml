@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ButtonPrimary">#FF00CCFF</color>
+    <color name="ButtonSuccess">#FF00FF00</color>
+    <color name="ButtonWarning">#FFFF0000</color>
+    <color name="ButtonCustom">#FFEB3B</color>
+    <color name="StrokeButtonWarning">#6E1710</color>
+    <color name="StrokeButtonSuccess">#009688</color>
+    <color name="StrokeButtonPrimary">#2196F3</color>
+    <color name="CustomStrokeButton">#FF5722</color>
+
+</resources>
